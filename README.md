@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**RenukaJoshi1302/RenukaJoshi1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MCA student and aspiring Full-Stack MERN Developer. I focus on building functional web applications using React, Node.js, Express, and MongoDB.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Focus: Building full-stack web applications and practicing DSA
+- 🌱 Learning: React state management, backend APIs, and database design
+- 💬 Ask Me About: JavaScript, HTML, CSS, React, and MongoDB
+- ⚡ Goal: Seeking entry-level software developer / web developer opportunities
+
+---
+
+### 🛠 Tech Stack
+- Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
+- Backend: Node.js, Express.js, REST APIs
+- Database: MongoDB, Mongoose
+- Tools: Git, GitHub, VS Code, Postman
