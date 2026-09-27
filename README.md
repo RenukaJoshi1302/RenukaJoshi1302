@@ -9,25 +9,24 @@
 
 ---
 
-
 ### 👩‍💻 About Me
 
 <table>
   <tr>
     <td width="65%" valign="top">
       <p>
-        Hi! I'm an <b>MCA student</b> and an aspiring <b>Software / Full-Stack Developer</b> who enjoys building clean, functional web applications[cite: 9]. I have hands-on practice with the <b>MERN stack</b> (MongoDB, Express, React, Node.js) along with <b>Java</b> and core relational database concepts[cite: 9].
+        Hi! I'm an <b>MCA student</b> and an aspiring <b>Software / Full-Stack Developer</b> who enjoys building clean, functional web applications. I have hands-on practice with the <b>MERN stack</b> (MongoDB, Express, React, Node.js) along with <b>Java</b> and core relational database concepts.
       </p>
       <br/>
       <ul>
-        <li>🌱 <b>Currently Learning:</b> Strengthening my full-stack web fundamentals, backend API design, and clean code practices[cite: 9].</li>
-        <li>💻 <b>Core Practice:</b> Building responsive frontends with React and solving Data Structures & Algorithms (DSA) problems[cite: 9].</li>
-        <li>📚 <b>Academic Background:</b> Pursuing Master of Computer Applications (MCA) at P.R. Pote Patil College of Engineering & Management[cite: 9].</li>
-        <li>🎯 <b>Current Goal:</b> Looking for entry-level Software Developer or Web Developer internship/job opportunities where I can learn and contribute[cite: 9].</li>
+        <li>🌱 <b>Currently Learning:</b> Strengthening my full-stack web fundamentals, backend API design, and clean code practices.</li>
+        <li>💻 <b>Core Practice:</b> Building responsive frontends with React and solving Data Structures & Algorithms (DSA) problems.</li>
+        <li>📚 <b>Academic Background:</b> Pursuing Master of Computer Applications (MCA) at P.R. Pote Patil College of Engineering & Management.</li>
+        <li>🎯 <b>Current Goal:</b> Looking for entry-level Software Developer or Web Developer internship/job opportunities where I can learn and contribute.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Woman developer coding" />
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" style="border-radius: 12px;" alt="Girl coding on laptop" />
     </td>
   </tr>
 </table>
