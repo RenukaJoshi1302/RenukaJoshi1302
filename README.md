@@ -8,7 +8,6 @@
 </div>
 
 ---
-
 ### 👩‍💻 About Me
 
 <table>
@@ -26,7 +25,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300" style="border-radius: 12px;" alt="Girl Developer Coding" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px;" alt="Developer Coding" />
     </td>
   </tr>
 </table>
