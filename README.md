@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Interactive Dynamic Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Renuka+Rajesh+Joshi+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%26+Java+Spring;MCA+Scholar+%40+PRPCEM+%F0%9F%8E%93;Aspiring+Software+Engineer" alt="Typing Banner" />
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) />
 
   <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=RenukaJoshi1302.RenukaJoshi1302&left_text=Profile%20Views&color=007ACC" alt="Views" />
