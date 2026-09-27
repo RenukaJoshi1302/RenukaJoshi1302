@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Interactive Dynamic Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Renuka+Rajesh+Joshi+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%26+Java+Spring;MCA+Scholar+%40+PRPCEM+%F0%9F%8E%93;AI-Integrated+Web+Solutions+Builder" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Renuka+Rajesh+Joshi+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%26+Java+Spring;MCA+Scholar+%40+PRPCEM+%F0%9F%8E%93;Aspiring+Software+Engineer" alt="Typing Banner" />
 
   <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=RenukaJoshi1302.RenukaJoshi1302&left_text=Profile%20Views&color=007ACC" alt="Views" />
@@ -15,7 +15,7 @@
   <tr>
     <td width="65%" valign="top">
       <p>
-        Hi! I'm an <b>MCA student</b> and an aspiring <b>Software / Full-Stack Developer</b> who enjoys building clean, functional web applications. I have hands-on practice with the <b>MERN stack</b> (MongoDB, Express, React, Node.js) along with <b>Java</b> and core relational database concepts.
+        Hi! I'm an <b>MCA student</b> and an aspiring <b>Software / Full-Stack Developer</b> who enjoys building clean, functional web applications. I have hands-on practice with the <b>MERN stack</b> (MongoDB, Express, React, Node.js) along with <b>Java</b> and relational database concepts.
       </p>
       <br/>
       <ul>
@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" style="border-radius: 12px;" alt="Girl coding on laptop" />
+      <img src="https://github.com/user-attachments/assets/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300" style="border-radius: 12px;" alt="Girl Developer Coding" />
     </td>
   </tr>
 </table>
@@ -80,7 +80,7 @@
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>AI & LLMs</b></td>
+    <td width="22%"><b>AI Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
       <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
