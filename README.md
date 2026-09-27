@@ -21,15 +21,15 @@
   <tr>
     <td width="65%" valign="top">
       <p>
-        I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> with hands-on proficiency across the <b>MERN Stack</b>, <b>Java / Spring Boot</b>, and relational databases. I specialize in engineering full-lifecycle web applications, architecting secure RESTful APIs with RBAC, and integrating external AI/LLM models.
+        I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> with intermediate hands-on proficiency in the <b>MERN Stack</b>, <b>Java / Spring Boot</b>, and relational databases. I specialize in designing secure RESTful APIs with role-based access control (RBAC), architecting scalable web apps, and integrating external AI/LLM models.
       </p>
       <br/>
       <ul>
-        <li>🔭 <b>Specialization:</b> Scalable web architectures using React 18, Node.js/Express, Spring Boot, and MongoDB/MySQL.</li>
-        <li>🤖 <b>AI Integration:</b> Integrating vision & language models (Groq API, Llama) into functional real-world workflows.</li>
-        <li>🔒 <b>Security & Architecture:</b> Zero-trust principles, JWT authentication, role-based access control, and rate limiting.</li>
+        <li>🔭 <b>Tech Focus:</b> Full-lifecycle web apps using React 18, Node.js, Express, Spring Boot, MongoDB, and MySQL.</li>
+        <li>🤖 <b>Applied AI:</b> Integrating vision & language models (Groq API, Llama 4/3.3) and utilizing modern AI workflows.</li>
+        <li>🛡️ <b>Security & Architecture:</b> Zero-trust principles, JWT authentication, bcrypt hashing, and API rate-limiting.</li>
+        <li>🧠 <b>Core CS:</b> Solid foundation in Data Structures & Algorithms (DSA), OOP, DBMS, and Operating Systems.</li>
         <li>🎓 <b>Education:</b> Master of Computer Applications (MCA) at P.R. Pote Patil College of Engineering & Management.</li>
-        <li>💼 <b>Career Focus:</b> Software Engineering, Full-Stack Developer, and Java Backend opportunities.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -51,20 +51,21 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
     </td>
   </tr>
   <tr>
     <td width="22%"><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>Backend & Databases</b></td>
+    <td width="22%"><b>Backend & DB</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -74,13 +75,24 @@
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>Tools & AI</b></td>
+    <td width="22%"><b>Developer Tools & IDEs</b></td>
     <td>
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" alt="Eclipse" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>AI & LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+      <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
     </td>
   </tr>
 </table>
@@ -95,28 +107,30 @@
       <h3>🌾 Sahyog AI — Smart Farming Platform</h3>
       <p>Full-stack agriculture platform serving 34+ districts and 200+ markets with automated price forecasting and crop disease diagnosis.</p>
       <ul>
-        <li>Integrated <b>Groq API (Llama Vision & 3.3 70B)</b> for asynchronous crop diagnosis and advisory chatbots.</li>
-        <li>Implemented Zero-Trust security with JWT, bcrypt, and custom endpoint rate-limiting.</li>
+        <li>Asynchronous image pipeline using <b>Multer & Groq API (Llama 4 Scout Vision)</b> for rapid disease diagnosis.</li>
+        <li>Advisory chatbot using <b>Llama 3.3 70B</b> with schema-validated MongoDB message persistence.</li>
+        <li>Zero-Trust API security via JWT, bcrypt, Helmet HTTP headers, and rate-limiting.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Groq_AI-F05032?style=flat&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_API-F05032?style=flat&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🏛️ Academia Portal — Academic Suite</h3>
-      <p>High-performance academic management SPA built for seamless student enrollment, grading, and role enforcement.</p>
+      <p>High-performance single-page academic management platform built for fast loading and structured data management.</p>
       <ul>
-        <li>Designed REST APIs via <b>Spring Boot & Hibernate ORM</b> with relational MySQL schemas to eliminate data redundancy.</li>
-        <li>Engineered fine-grained <b>Role-Based Access Control (RBAC)</b> for Admin, Faculty, and Student tiers.</li>
+        <li>Secure RESTful APIs built with <b>Spring Boot & Hibernate ORM</b> and MySQL relational models without redundancy.</li>
+        <li>Fine-grained <b>Role-Based Access Control (RBAC)</b> across Student, Faculty, and Admin interfaces.</li>
+        <li>Standardized state persistence and error handling with centralized Axios interceptors.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
       </p>
     </td>
   </tr>
