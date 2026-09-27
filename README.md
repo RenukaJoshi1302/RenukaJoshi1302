@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" style="border-radius: 12px;" alt="Girl Developer Coding" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px;" alt="Developer Coding" />
     </td>
   </tr>
 </table>
