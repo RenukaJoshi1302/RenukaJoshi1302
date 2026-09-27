@@ -11,23 +11,24 @@
 
 ### 👩‍💻 About Me
 
+### 👩‍💻 About Me
+
 <table>
   <tr>
     <td width="65%" valign="top">
       <p>
-        I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> with intermediate hands-on proficiency in the <b>MERN Stack</b>, <b>Java / Spring Boot</b>, and relational databases. I specialize in designing secure RESTful APIs with role-based access control (RBAC), architecting scalable web apps, and integrating external AI/LLM models.
+        Hi! I'm an <b>MCA student</b> and an aspiring <b>Software / Full-Stack Developer</b> who enjoys building clean, functional web applications. I have hands-on practice with the <b>MERN stack</b> (MongoDB, Express, React, Node.js) along with <b>Java</b> and core relational database concepts[cite: 9].
       </p>
       <br/>
       <ul>
-        <li>🔭 <b>Tech Focus:</b> Full-lifecycle web apps using React 18, Node.js, Express, Spring Boot, MongoDB, and MySQL.</li>
-        <li>🤖 <b>Applied AI:</b> Integrating vision & language models (Groq API, Llama 4/3.3) and utilizing modern AI workflows.</li>
-        <li>🛡️ <b>Security & Architecture:</b> Zero-trust principles, JWT authentication, bcrypt hashing, and API rate-limiting.</li>
-        <li>🧠 <b>Core CS:</b> Solid foundation in Data Structures & Algorithms (DSA), OOP, DBMS, and Operating Systems.</li>
-        <li>🎓 <b>Education:</b> Master of Computer Applications (MCA) at P.R. Pote Patil College of Engineering & Management.</li>
+        <li>🌱 <b>Currently Learning:</b> Strengthening my full-stack web fundamentals, backend API design, and clean code practices[cite: 9].</li>
+        <li>💻 <b>Core Practice:</b> Building responsive frontends with React and solving Data Structures & Algorithms (DSA) problems[cite: 9].</li>
+        <li>📚 <b>Academic Background:</b> Pursuing Master of Computer Applications (MCA) at P.R. Pote Patil College of Engineering & Management[cite: 9].</li>
+        <li>🎯 <b>Current Goal:</b> Looking for entry-level Software Developer or Web Developer internship/job opportunities where I can learn and contribute[cite: 9].</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding Illustration" />
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Girl coding on laptop" />
     </td>
   </tr>
 </table>
