@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Interactive Dynamic Typing Banner -->
-  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Renuka+Rajesh+Joshi+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%26+Java+Spring;MCA+Scholar+%40+PRPCEM+%F0%9F%8E%93;Aspiring+Software+Engineer" alt="Typing Banner" />
 
   <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=RenukaJoshi1302.RenukaJoshi1302&left_text=Profile%20Views&color=007ACC" alt="Views" />
@@ -8,6 +8,7 @@
 </div>
 
 ---
+
 ### 👩‍💻 About Me
 
 <table>
@@ -25,7 +26,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px;" alt="Developer Coding" />
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" style="border-radius: 12px;" alt="Girl Developer Coding" />
     </td>
   </tr>
 </table>
