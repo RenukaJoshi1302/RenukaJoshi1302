@@ -9,7 +9,6 @@
 
 ---
 
-### 👩‍💻 About Me
 
 ### 👩‍💻 About Me
 
@@ -17,7 +16,7 @@
   <tr>
     <td width="65%" valign="top">
       <p>
-        Hi! I'm an <b>MCA student</b> and an aspiring <b>Software / Full-Stack Developer</b> who enjoys building clean, functional web applications. I have hands-on practice with the <b>MERN stack</b> (MongoDB, Express, React, Node.js) along with <b>Java</b> and core relational database concepts[cite: 9].
+        Hi! I'm an <b>MCA student</b> and an aspiring <b>Software / Full-Stack Developer</b> who enjoys building clean, functional web applications[cite: 9]. I have hands-on practice with the <b>MERN stack</b> (MongoDB, Express, React, Node.js) along with <b>Java</b> and core relational database concepts[cite: 9].
       </p>
       <br/>
       <ul>
@@ -28,7 +27,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Girl coding on laptop" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Woman developer coding" />
     </td>
   </tr>
 </table>
