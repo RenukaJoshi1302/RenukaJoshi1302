@@ -1,14 +1,8 @@
 <div align="center">
-  <!-- Interactive Dynamic Typing Banner (Full-Width Responsive Fix) -->
+  <!-- Interactive Dynamic Typing Banner -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Renuka+Rajesh+Joshi+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%26+Java+Spring;MCA+Scholar+%40+PRPCEM+%F0%9F%8E%93;AI-Integrated+Web+Solutions+Builder" alt="Typing Banner" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/renuka-joshi-2b5359282" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:renukajoshi1302@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=RenukaJoshi1302.RenukaJoshi1302&left_text=Profile%20Views&color=007ACC" alt="Views" />
   </p>
 </div>
@@ -21,15 +15,15 @@
   <tr>
     <td width="65%" valign="top">
       <p>
-        I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> with intermediate hands-on proficiency in the <b>MERN Stack</b>, <b>Java / Spring Boot</b>, and relational databases[cite: 9]. I specialize in designing secure RESTful APIs with role-based access control (RBAC), architecting scalable web apps, and integrating external AI/LLM models[cite: 9].
+        I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> with intermediate hands-on proficiency in the <b>MERN Stack</b>, <b>Java / Spring Boot</b>, and relational databases. I specialize in designing secure RESTful APIs with role-based access control (RBAC), architecting scalable web apps, and integrating external AI/LLM models.
       </p>
       <br/>
       <ul>
-        <li>🔭 <b>Tech Focus:</b> Full-lifecycle web apps using React 18, Node.js, Express, Spring Boot, MongoDB, and MySQL[cite: 9].</li>
-        <li>🤖 <b>Applied AI:</b> Integrating vision & language models (Groq API, Llama 4/3.3) and utilizing modern AI workflows[cite: 9].</li>
-        <li>🛡️ <b>Security & Architecture:</b> Zero-trust principles, JWT authentication, bcrypt hashing, and API rate-limiting[cite: 9].</li>
-        <li>🧠 <b>Core CS:</b> Solid foundation in Data Structures & Algorithms (DSA), OOP, DBMS, and Operating Systems[cite: 9].</li>
-        <li>🎓 <b>Education:</b> Master of Computer Applications (MCA) at P.R. Pote Patil College of Engineering & Management[cite: 9].</li>
+        <li>🔭 <b>Tech Focus:</b> Full-lifecycle web apps using React 18, Node.js, Express, Spring Boot, MongoDB, and MySQL.</li>
+        <li>🤖 <b>Applied AI:</b> Integrating vision & language models (Groq API, Llama 4/3.3) and utilizing modern AI workflows.</li>
+        <li>🛡️ <b>Security & Architecture:</b> Zero-trust principles, JWT authentication, bcrypt hashing, and API rate-limiting.</li>
+        <li>🧠 <b>Core CS:</b> Solid foundation in Data Structures & Algorithms (DSA), OOP, DBMS, and Operating Systems.</li>
+        <li>🎓 <b>Education:</b> Master of Computer Applications (MCA) at P.R. Pote Patil College of Engineering & Management.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -75,7 +69,7 @@
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>Developer Tools & IDEs</b></td>
+    <td width="22%"><b>Tools & IDEs</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -105,11 +99,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌾 Sahyog AI — Smart Farming Platform</h3>
-      <p>Full-stack agriculture platform serving 34+ districts and 200+ markets with automated price forecasting and crop disease diagnosis[cite: 9].</p>
+      <p>Full-stack agriculture platform serving 34+ districts and 200+ markets with automated price forecasting and crop disease diagnosis.</p>
       <ul>
-        <li>Asynchronous image pipeline using <b>Multer & Groq API (Llama 4 Scout Vision)</b> for rapid disease diagnosis[cite: 9].</li>
-        <li>Advisory chatbot using <b>Llama 3.3 70B</b> with schema-validated MongoDB message persistence[cite: 9].</li>
-        <li>Zero-Trust API security via JWT, bcrypt, Helmet HTTP headers, and rate-limiting[cite: 9].</li>
+        <li>Asynchronous image pipeline using <b>Multer & Groq API (Llama 4 Scout Vision)</b> for rapid disease diagnosis.</li>
+        <li>Advisory chatbot using <b>Llama 3.3 70B</b> with schema-validated MongoDB message persistence.</li>
+        <li>Zero-Trust API security via JWT, bcrypt, Helmet HTTP headers, and rate-limiting.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -120,11 +114,11 @@
     </td>
     <td width="50%" valign="top">
       <h3>🏛️ Academia Portal — Academic Suite</h3>
-      <p>High-performance single-page academic management platform built for fast loading and structured data management[cite: 9].</p>
+      <p>High-performance single-page academic management platform built for fast loading and structured data management.</p>
       <ul>
-        <li>Secure RESTful APIs built with <b>Spring Boot & Hibernate ORM</b> and MySQL relational models without redundancy[cite: 9].</li>
-        <li>Fine-grained <b>Role-Based Access Control (RBAC)</b> across Student, Faculty, and Admin interfaces[cite: 9].</li>
-        <li>Standardized state persistence and error handling with centralized Axios interceptors[cite: 9].</li>
+        <li>Secure RESTful APIs built with <b>Spring Boot & Hibernate ORM</b> and MySQL relational models without redundancy.</li>
+        <li>Fine-grained <b>Role-Based Access Control (RBAC)</b> across Student, Faculty, and Admin interfaces.</li>
+        <li>Standardized state persistence and error handling with centralized Axios interceptors.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB" />
